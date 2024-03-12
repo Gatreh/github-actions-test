@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# cloud init files
+.sh
+
 # dotenv files
 .env
 
